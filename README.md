@@ -14,6 +14,11 @@ The **Library and Book Store Inventory System** is a web application designed to
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/7be1594e-e9cd-468b-b111-3abd8dd03f6a
+
+
+
 ## Prerequisites
 
 - Python (v3.11 or higher)
